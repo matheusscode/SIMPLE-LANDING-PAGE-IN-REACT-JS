@@ -1,0 +1,12 @@
+.footer {
+  border-top: 0.4px solid aliceblue;
+  padding: 32px;
+}
+
+.footer-logo{
+  height: 48px;
+  display: block;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  color: aliceblue;
+}
